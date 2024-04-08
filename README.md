@@ -8,5 +8,5 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
 
 - Day 101: 
   - Problem: [1700. Number of Students Unable to Eat Lunch (Easy)](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
-  - Solution: [cpp solution](April/Number_of_Students_Unable_to_Eat_Lunch_(Easy).cpp)
+  - Solution: [cpp solution](Year/2024/April/Number_of_Students_Unable_to_Eat_Lunch_(Easy).cpp)
   - Topics: Array, Stack, Queue, Simulation
