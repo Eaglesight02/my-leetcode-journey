@@ -8,10 +8,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
 
 - Day 101: 
   - Problem: [1700. Number of Students Unable to Eat Lunch (Easy)](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
-  - Solution: [cpp solution](Year/2024/April/Number_of_Students_Unable_to_Eat_Lunch_(Easy).cpp)
+  - Solution: [cpp solution](Year/2024/April/1700_Number_of_Students_Unable_to_Eat_Lunch_(Easy).cpp)
   - Topics: Array, Stack, Queue, Simulation
 
 - Day 102:
   - Problem: [2073 Time needed to buy tickets (Easy)](https://leetcode.com/problems/time-needed-to-buy-tickets/)
-  - Solution: [cpp solution](my-leetcode-journey/Year/2024/April/2073_Time_Needed_to_buy_tickets_(Easy).cpp)
+  - Solution: [cpp solution](Year/2024/April/2073_Time_Needed_to_buy_tickets_(Easy).cpp)
   - Topics: Array, Queue, Simulation
