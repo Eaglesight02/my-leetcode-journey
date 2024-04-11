@@ -6,6 +6,29 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
 
 #### I also intend to keep updating the post everyday so keep checking it out!!
 
+---
+
+<details>
+  <summary>Click to see topic-wise solutions</summary>
+  <p>
+
+  - [Array](Topics/Array.md)
+  - [Greedy](Topics/Greedy.md)
+  - [Monotonic Stack](Topics/Monotonic%20Stack.md)
+  - [Queue](Topics/Queue.md)
+  - [Simulation](Topics/Simulation.md)
+  - [Sorting](Topics/Sorting.md)
+  - [Stack](Topics/Stack.md)
+  - [String](Topics/String.md)
+
+  </p>
+</details>
+
+---
+<details>
+  <summary>Click to see the Day-wise progress!</summary>
+  <p>
+
 - Day 101: 
   - Problem: [1700. Number of Students Unable to Eat Lunch (Easy)](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
   - Solution: [cpp solution](Year/2024/April/1700_Number_of_Students_Unable_to_Eat_Lunch_(Easy).cpp)
@@ -25,3 +48,6 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Problem: [402. Remove K Digits (Medium)](https://leetcode.com/problems/remove-k-digits/description/)
   - Solution: [ccp solution](Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
   - Topics: String, Stack, Greedy, Monotonic Stack
+
+  </p>
+</details>
