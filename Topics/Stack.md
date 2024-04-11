@@ -1,1 +1,2 @@
 - [1700. Number of Students Unable to Eat Lunch (Easy)](../Year/2024/April/1700_Number_of_Students_Unable_to_Eat_Lunch_(Easy).cpp)
+- [402. Remove K Digits (Medium)](../Year/2024/April/402_Remove_K_Digits_(Medium).cpp)

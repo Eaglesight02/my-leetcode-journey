@@ -17,6 +17,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Topics: Array, Queue, Simulation
   
 - Day 103:
-  - Problem: [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+  - Problem: [950. Reveal Cards In Increasing Order (Medium)](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
   - Solution: [cpp solution](Year/2024/April/950_Reveal_Cards_In_Increasing_Order_(Medium).cpp)
   - Topics: Array, Queue, Sorting, Simulation
+
+- Day 104:
+  - Problem: [402. Remove K Digits (Medium)](https://leetcode.com/problems/remove-k-digits/description/)
+  - Solution: [ccp solution](Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
+  - Topics: String, Stack, Greedy, Monotonic Stack
