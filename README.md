@@ -46,8 +46,13 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
 
 - Day 104:
   - Problem: [402. Remove K Digits (Medium)](https://leetcode.com/problems/remove-k-digits/description/)
-  - Solution: [ccp solution](Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
+  - Solution: [cpp solution](Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
   - Topics: String, Stack, Greedy, Monotonic Stack
+
+- Day 105:
+  - Problem: [85. Maximal Rectangle (Hard)](https://leetcode.com/problems/maximal-rectangle/?envType=daily-question&envId=2024-04-13)
+  - Solution: [cpp solution](Year/2024/April/85_Maximal_Rectangle_(Hard).cpp)
+  - Topics: Array, Dynamic Programming, Stack, Matrix, Monotonic Stack
 
   </p>
 </details>
