@@ -54,5 +54,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/85_Maximal_Rectangle_(Hard).cpp)
   - Topics: Array, Dynamic Programming, Stack, Matrix, Monotonic Stack
 
+- Day 106:
+  - Problem: [404. Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves/description/)
+  - Solution: [cpp solution](Year/2024/April/404_Sum_Of_Left_Leaves_(Easy).cpp)
+  - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary Tree
+
   </p>
 </details>
