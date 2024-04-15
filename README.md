@@ -59,5 +59,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/404_Sum_Of_Left_Leaves_(Easy).cpp)
   - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary Tree
 
+- Day 107:
+  - Problem: [129. Sum Root to Leaf Nodes (Medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
+  - Solution: [cpp solution](Year/2024/April/129_Sum_Root_to_Leaf_Node_(Medium).cpp)
+  - Topics: Tree, Depth-First-Search, Binary Tree
+
   </p>
 </details>
