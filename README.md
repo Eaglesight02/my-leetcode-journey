@@ -64,5 +64,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/129_Sum_Root_to_Leaf_Node_(Medium).cpp)
   - Topics: Tree, Depth-First-Search, Binary Tree
 
+- Day 108:
+  - Problem: [623. Add one Row to the Tree (Medium)](https://leetcode.com/problems/add-one-row-to-tree/description/)
+  - Solution: [cpp solution](Year/2024/April/623_Add_One_Row_To_Tree_(Medium).cpp)
+  - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary Tree
+
   </p>
 </details>
