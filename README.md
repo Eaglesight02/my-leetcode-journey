@@ -69,5 +69,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/623_Add_One_Row_To_Tree_(Medium).cpp)
   - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary Tree
 
+- Day 109:
+  - Problem: [988 Smallest String From Leaf (Medium)](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
+  - Solution: [cpp solution](Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
+  - Topics: String, Tree, Depth-First-Search, Binary Tree
+
   </p>
 </details>

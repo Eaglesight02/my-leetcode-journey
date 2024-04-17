@@ -1,1 +1,2 @@
 - [402. Remove K Digits (Medium)](../Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
+- [988 Smallest String From Leaf (Medium)](../Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)

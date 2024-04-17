@@ -1,3 +1,4 @@
 - [404. Sum of Left Leaves (Easy)](../Year/2024/April/404_Sum_Of_Left_Leaves_(Easy).cpp)
 - [129. Sum Root to Leaf Nodes (Medium)](../Year/2024/April/129_Sum_Root_to_Leaf_Node_(Medium).cpp)
 - [623. Add one Row to the Tree (Medium)](../Year/2024/April/623_Add_One_Row_To_Tree_(Medium).cpp)
+- [988 Smallest String From Leaf (Medium)](../Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
