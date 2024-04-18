@@ -1,1 +1,0 @@
-- [456 Island Perimeter (Easy)](../Year/2024/April/456_Island_Perimeter_(Easy).cpp)
