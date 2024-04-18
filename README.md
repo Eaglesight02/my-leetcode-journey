@@ -79,5 +79,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
   - Topics: String, Tree, Depth-First-Search, Binary Tree
 
+- Day 110:
+  - Problem: [456 Island Perimeter (Easy)](https://leetcode.com/problems/island-perimeter/description/)
+  - Solution: [cpp solution](Year/2024/April/456_Island_Perimeter_(Easy).cpp)
+  - Topics: Array, Matrix, Depth-First-Search, Breadth-First-Search
+
   </p>
 </details>
