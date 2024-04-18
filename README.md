@@ -21,10 +21,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Stack](Topics/Stack.md)
   - [String](Topics/String.md)
   - [Tree](Topics/Tree.md)
-  - [Binary Tree](Topics/Binary%20Tree
-  .md)
+  - [Binary Tree](Topics/Binary%20Tree.md)
   - [Breadth First Search](Topics/Breadth-First-Search.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
+  - [Matrix](Topics/Matrix.md)
 
   </p>
 </details>
