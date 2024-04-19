@@ -25,6 +25,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Breadth First Search](Topics/Breadth-First-Search.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
   - [Matrix](Topics/Matrix.md)
+  - [Union-Find](Topics/Union-Find.md)
 
   </p>
 </details>
