@@ -90,5 +90,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/200_Count_Islands_(Medium).cpp)
   - Topics: Array, Depth-First-Search, Breadth-First-Search, Matrix, Union-Find
 
+- Day 112:
+  - Problem: [1992 Find all groups of FarmLand (Medium)](https://leetcode.com/problems/find-all-groups-of-farmland/description/)
+  - Solution: [cpp solution](Year/2024/April/1992_Find_All_Groups_Of_FarmLand_(Medium).cpp)
+  - Topics: Array, Matrix, Depth-First-Search, Breadth-First-Search
+
   </p>
 </details>
