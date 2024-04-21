@@ -95,5 +95,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/1992_Find_All_Groups_Of_FarmLand_(Medium).cpp)
   - Topics: Array, Matrix, Depth-First-Search, Breadth-First-Search
 
+- Day 113:
+  - Problem: [1971 Find if path exists in Graph (Easy)](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+  - Solution: [cpp solution](Year/2024/April/1971_Find_If_Path_Exists_In_Graph_(Easy).cpp)
+  - Topics: Graph, Union-Find, Depth-First-Search, Breadth-First-Search
+
   </p>
 </details>

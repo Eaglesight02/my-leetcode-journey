@@ -1,2 +1,1 @@
-- [200 Count Islands (Medium)](../Year/2024/April/200_Count_Islands_(Medium).cpp)
 - [1971 Find if path exists in Graph (Easy)](../Year/2024/April/1971_Find_If_Path_Exists_In_Graph_(Easy).cpp)
