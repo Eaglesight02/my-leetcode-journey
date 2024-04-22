@@ -100,5 +100,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/1971_Find_If_Path_Exists_In_Graph_(Easy).cpp)
   - Topics: Graph, Union-Find, Depth-First-Search, Breadth-First-Search
 
+- Day 114:
+  - Problem: [152 Maximum Product Subarray (Medium)](https://leetcode.com/problems/maximum-product-subarray/description/)
+  - Solution: [cpp solution](Year/2024/April/152_Maximum_Product_Subarray_(Medium).cpp)
+  - Topics: Array, Dynamic-Programming
+
   </p>
 </details>
