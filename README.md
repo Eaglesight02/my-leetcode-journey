@@ -105,5 +105,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/152_Maximum_Product_Subarray_(Medium).cpp)
   - Topics: Array, Dynamic-Programming
 
+- Day 115:
+  - Problem: [310 Minimum Height Trees (Medium)](https://leetcode.com/problems/minimum-height-trees/description/)
+  - Solution: [cpp solution](Year/2024/April/310_Minimum_Height_Trees_(Medium).cpp)
+  - Topics: Graph, Depth-First-Search, Breadth-First-Search, Topological-Sort
+
   </p>
 </details>

@@ -6,3 +6,4 @@
 - [200 Count Islands (Medium)](../Year/2024/April/200_Count_Islands_(Medium).cpp)
 - [1992 Find all groups of FarmLand (Medium)](../Year/2024/April/1992_Find_All_Groups_Of_FarmLand_(Medium).cpp)
 - [1971 Find if path exists in Graph (Easy)](../Year/2024/April/1971_Find_If_Path_Exists_In_Graph_(Easy).cpp)
+- [310 Minimum Height Trees (Medium)](../Year/2024/April/310_Minimum_Height_Trees_(Medium).cpp)
