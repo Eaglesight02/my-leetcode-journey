@@ -110,5 +110,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/310_Minimum_Height_Trees_(Medium).cpp)
   - Topics: Graph, Depth-First-Search, Breadth-First-Search, Topological-Sort
 
+- Day 116:
+  - Problem: [1137 Nth Tribonacci Number (Easy)](https://leetcode.com/problems/n-th-tribonacci-number/)
+  - Solution: [cpp solution](Year/2024/April/1137_Nth_Tribonacci_Number_(Easy).cpp)
+  - Topics: Math, Dynamic-Programming, Memoization
+
   </p>
 </details>
