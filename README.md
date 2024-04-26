@@ -13,7 +13,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   <p>
 
   - [Array](Topics/Array.md)
+  - [Binary Tree](Topics/Binary%20Tree.md)
+  - [Breadth First Search](Topics/Breadth-First-Search.md)
+  - [Depth First Search](Topics/Depth-First-Search.md)
   - [Greedy](Topics/Greedy.md)
+  - [Matrix](Topics/Matrix.md)
   - [Monotonic Stack](Topics/Monotonic%20Stack.md)
   - [Queue](Topics/Queue.md)
   - [Simulation](Topics/Simulation.md)
@@ -21,10 +25,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Stack](Topics/Stack.md)
   - [String](Topics/String.md)
   - [Tree](Topics/Tree.md)
-  - [Binary Tree](Topics/Binary%20Tree.md)
-  - [Breadth First Search](Topics/Breadth-First-Search.md)
-  - [Depth First Search](Topics/Depth-First-Search.md)
-  - [Matrix](Topics/Matrix.md)
+  - [Topological-Sort](Topics/Topological-Sort.md)
   - [Union-Find](Topics/Union-Find.md)
 
   </p>
@@ -58,7 +59,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
 - Day 105:
   - Problem: [85. Maximal Rectangle (Hard)](https://leetcode.com/problems/maximal-rectangle/?envType=daily-question&envId=2024-04-13)
   - Solution: [cpp solution](Year/2024/April/85_Maximal_Rectangle_(Hard).cpp)
-  - Topics: Array, Dynamic Programming, Stack, Matrix, Monotonic Stack
+  - Topics: Array, Dynamic-Programming, Stack, Matrix, Monotonic Stack
 
 - Day 106:
   - Problem: [404. Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves/description/)
