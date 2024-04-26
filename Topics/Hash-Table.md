@@ -1,0 +1,1 @@
+- [2370 Longest Ideal Subsequence (Medium)](../Year/2024/April/2370_Longest_Ideal_Subsequence_(Medium).cpp)

@@ -1,2 +1,4 @@
 - [152 Maximum Product Subarray (Medium)](../Year/2024/April/152_Maximum_Product_Subarray_(Medium).cpp)
 - [1137 Nth Tribonacci Number (Easy)](../Year/2024/April/1137_Nth_Tribonacci_Number_(Easy).cpp)
+- [2370 Longest Ideal Subsequence (Medium)](../Year/2024/April/2370_Longest_Ideal_Subsequence_(Medium).cpp)
+- [1289 Minimum Falling Path Sum II (Hard)](../Year/2024/April/1289_Minimum_Falling_Path_Sum_II_(Hard).cpp)

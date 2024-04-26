@@ -115,5 +115,15 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/April/1137_Nth_Tribonacci_Number_(Easy).cpp)
   - Topics: Math, Dynamic-Programming, Memoization
 
+- Day 117:
+  - Problem: [2370 Longest Ideal Subsequence (Medium)](https://leetcode.com/problems/longest-ideal-subsequence/)
+  - Solution: [cpp solution](Year/2024/April/2370_Longest_Ideal_Subsequence_(Medium).cpp)
+  - Topics: String, Hash-Table, Dynamic-Programming
+
+- Day 118:
+  - Problem: [1289 Minimum Falling Path Sum II (Hard)](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
+  - Solution: [cpp solution](Year/2024/April/1289_Minimum_Falling_Path_Sum_II_(Hard).cpp)
+  - Topics: Array, Dynamic-Programming, Matrix
+
   </p>
 </details>

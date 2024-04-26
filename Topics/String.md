@@ -1,2 +1,3 @@
 - [402. Remove K Digits (Medium)](../Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
 - [988 Smallest String From Leaf (Medium)](../Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
+- [2370 Longest Ideal Subsequence (Medium)](../Year/2024/April/2370_Longest_Ideal_Subsequence_(Medium).cpp)
