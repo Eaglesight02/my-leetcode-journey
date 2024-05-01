@@ -29,7 +29,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Stack](Topics/Stack.md)
   - [String](Topics/String.md)
   - [Tree](Topics/Two-Pointers.md)
-  - [Two Pointers](Topics/T)
+  - [Two Pointers](Topics/Two-Pointers.md)
   - [Topological-Sort](Topics/Topological-Sort.md)
   - [Union-Find](Topics/Union-Find.md)
 
