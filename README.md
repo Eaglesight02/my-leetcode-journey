@@ -14,17 +14,22 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
 
   - [Array](Topics/Array.md)
   - [Binary Tree](Topics/Binary%20Tree.md)
+  - [Bit Manipulation](Topics/Bit-Manipulation.md)
   - [Breadth First Search](Topics/Breadth-First-Search.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
+  - [Graph](Topics/Graph.md)
   - [Greedy](Topics/Greedy.md)
+  - [Hash Table](Topics/Hash-Table.md)
   - [Matrix](Topics/Matrix.md)
   - [Monotonic Stack](Topics/Monotonic%20Stack.md)
+  - [Prefix Sum](Topics/Prefix-Sum.md)
   - [Queue](Topics/Queue.md)
   - [Simulation](Topics/Simulation.md)
   - [Sorting](Topics/Sorting.md)
   - [Stack](Topics/Stack.md)
   - [String](Topics/String.md)
-  - [Tree](Topics/Tree.md)
+  - [Tree](Topics/Two-Pointers.md)
+  - [Two Pointers](Topics/T)
   - [Topological-Sort](Topics/Topological-Sort.md)
   - [Union-Find](Topics/Union-Find.md)
 
@@ -125,6 +130,31 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Problem: [1289 Minimum Falling Path Sum II (Hard)](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
   - Solution: [cpp solution](Year/2024/April/1289_Minimum_Falling_Path_Sum_II_(Hard).cpp)
   - Topics: Array, Dynamic-Programming, Matrix
+
+- Day 119:
+  - Problem: [514 Freedom Trail (Hard)](https://leetcode.com/problems/freedom-trail/description/)
+  - Solution: [cpp solution](Year/2024/April/514_Freedom_Trail_(Hard).cpp)
+  - Topics: String, Dynamic-Programming, Breadth-First-Search, Depth-First-Search
+
+- Day 120:
+  - Problem: [834 Sum of Distances in Tree (Hard)](https://leetcode.com/problems/sum-of-distances-in-tree/description/)
+  - Solution: [cpp solution](Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)
+  - Topics: Graph, Tree, Dynamic-Programming, Tree
+
+- Day 121:
+  - Problem: [2997 Minimum Number of Operations to Make Array XOR Equal to K (Medium)](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)
+  - Solution: [cpp solution](Year/2024/April/2997_Minimum_Number_Of_Operations_To_Make_Array_XOR_Equal_to_K_(Medium).cpp)
+  - Topics: Array, Bit-Manipulation
+
+- Day 122:
+  - Problem: [1915 Number of Wonderful Substrings (Medium)](https://leetcode.com/problems/number-of-wonderful-substrings/description/)
+  - Solution: [cpp solution](Year/2024/April/1915_Number_Of_Wonderful_Substrings_(Medium).cpp)
+  - Topics: Bit-Manipulation, Prefix-Sum, Hash-Table, String
+
+- Day 123:
+  - Problem: [2000 Reverse Prefix Of Word (Easy)](https://leetcode.com/problems/reverse-prefix-of-word/description/)
+  - Solution: [cpp solution](Year/2024/May/2000_Reverse_Prefix_Of_Word_(Easy).cpp)
+  - Topics: String, Two-Pointers
 
   </p>
 </details>

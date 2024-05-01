@@ -2,3 +2,5 @@
 - [1137 Nth Tribonacci Number (Easy)](../Year/2024/April/1137_Nth_Tribonacci_Number_(Easy).cpp)
 - [2370 Longest Ideal Subsequence (Medium)](../Year/2024/April/2370_Longest_Ideal_Subsequence_(Medium).cpp)
 - [1289 Minimum Falling Path Sum II (Hard)](../Year/2024/April/1289_Minimum_Falling_Path_Sum_II_(Hard).cpp)
+- [514 Freedom Trail (Hard)](../Year/2024/April/514_Freedom_Trail_(Hard).cpp)
+- [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)

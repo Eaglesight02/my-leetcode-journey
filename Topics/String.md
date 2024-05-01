@@ -1,3 +1,6 @@
 - [402. Remove K Digits (Medium)](../Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
 - [988 Smallest String From Leaf (Medium)](../Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
 - [2370 Longest Ideal Subsequence (Medium)](../Year/2024/April/2370_Longest_Ideal_Subsequence_(Medium).cpp)
+- [514 Freedom Trail (Hard)](../Year/2024/April/514_Freedom_Trail_(Hard).cpp)
+- [1915 Number of Wonderful Substrings (Medium)](../Year/2024/April/1915_Number_Of_Wonderful_Substrings_(Medium).cpp)
+- [2000 Reverse Prefix Of Word (Easy)](../Year/2024/May/2000_Reverse_Prefix_Of_Word_(Easy).cpp)

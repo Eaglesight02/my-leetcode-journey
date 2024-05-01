@@ -1,0 +1,2 @@
+- [2997 Minimum Number of Operations to Make Array XOR Equal to K (Medium)](../Year/2024/April/2997_Minimum_Number_Of_Operations_To_Make_Array_XOR_Equal_to_K_(Medium).cpp)
+- [1915 Number of Wonderful Substrings (Medium)](../Year/2024/April/1915_Number_Of_Wonderful_Substrings_(Medium).cpp)

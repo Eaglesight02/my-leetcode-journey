@@ -2,3 +2,5 @@
 - [129. Sum Root to Leaf Nodes (Medium)](../Year/2024/April/129_Sum_Root_to_Leaf_Node_(Medium).cpp)
 - [623. Add one Row to the Tree (Medium)](../Year/2024/April/623_Add_One_Row_To_Tree_(Medium).cpp)
 - [988 Smallest String From Leaf (Medium)](../Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
+- [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)
+- [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)

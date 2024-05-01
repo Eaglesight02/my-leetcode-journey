@@ -1,2 +1,3 @@
 - [1971 Find if path exists in Graph (Easy)](../Year/2024/April/1971_Find_If_Path_Exists_In_Graph_(Easy).cpp)
 - [310 Minimum Height Trees (Medium)](../Year/2024/April/310_Minimum_Height_Trees_(Medium).cpp)
+- [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)

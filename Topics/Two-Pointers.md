@@ -1,0 +1,1 @@
+- [2000 Reverse Prefix Of Word (Easy)](../Year/2024/May/2000_Reverse_Prefix_Of_Word_(Easy).cpp)
