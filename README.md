@@ -156,5 +156,10 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Solution: [cpp solution](Year/2024/May/2000_Reverse_Prefix_Of_Word_(Easy).cpp)
   - Topics: String, Two-Pointers
 
+- Day 124:
+  - Problem: [2441 Largest Positive Integer that exists with its negative (Easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
+  - Solution: [cpp solution](Year/2024/May/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative_(Easy).cpp)
+  - Topics: Array, Hash-Table, Two-Pointers, Sorting
+
   </p>
 </details>
