@@ -174,6 +174,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative_(Easy).cpp)
     - Topics: Array, Hash-Table, Two-Pointers, Sorting
 
+  - Day 125:
+    - Problem: [165 Compare Version Numbers (Medium)](https://leetcode.com/problems/compare-version-numbers/)
+    - Solution: [cpp solution](Year/2024/May/165_Compare_Version_Numbers_(Medium).cpp)
+    - Topics: String, Two-Pointers
+
   </p>
   </details>
   </p>
