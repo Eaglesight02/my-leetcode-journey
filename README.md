@@ -179,6 +179,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/165_Compare_Version_Numbers_(Medium).cpp)
     - Topics: String, Two-Pointers
 
+  - Day 126:
+    - Problem: [881 Boats to save people (Medium)](https://leetcode.com/problems/boats-to-save-people/description/)
+    - Solution: [cpp solution](Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
+    - Topics: Sorting, Greedy, Array, Two-Pointers
+
   </p>
   </details>
   </p>

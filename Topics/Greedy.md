@@ -1,1 +1,2 @@
 - [402. Remove K Digits (Medium)](../Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
+- [881 Boats to save people (Medium)](../Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
