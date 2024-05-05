@@ -20,6 +20,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Graph](Topics/Graph.md)
   - [Greedy](Topics/Greedy.md)
   - [Hash Table](Topics/Hash-Table.md)
+  - [Linked List](Topics/Linked-List.md)
   - [Matrix](Topics/Matrix.md)
   - [Monotonic Stack](Topics/Monotonic%20Stack.md)
   - [Prefix Sum](Topics/Prefix-Sum.md)
@@ -183,6 +184,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Problem: [881 Boats to save people (Medium)](https://leetcode.com/problems/boats-to-save-people/description/)
     - Solution: [cpp solution](Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
     - Topics: Sorting, Greedy, Array, Two-Pointers
+
+  - Day 127:
+    - Problem: [237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+    - Solution: [cpp solution](Year/2024/May/237_Delete_Node_In_A_Linked_List_(Medium).cpp)
+    - Topics: Linked-List
 
   </p>
   </details>
