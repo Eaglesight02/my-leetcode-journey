@@ -186,9 +186,14 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Topics: Sorting, Greedy, Array, Two-Pointers
 
   - Day 127:
-    - Problem: [237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+    - Problem: [237 Delete Node in a Linked List [Medium]](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
     - Solution: [cpp solution](Year/2024/May/237_Delete_Node_In_A_Linked_List_(Medium).cpp)
     - Topics: Linked-List
+
+  - Day 128:
+    - Problem: [2487 Remove Nodes From Linked List [Medium]](https://leetcode.com/problems/remove-nodes-from-linked-list/)
+    - Solution: [cpp solution](Year/2024/May/2487_Remove_Nodes_From_Linked_List_(Medium).cpp)
+    - Topics: Linked-List, Stack, Recursion, Monotonic-Stack
 
   </p>
   </details>
