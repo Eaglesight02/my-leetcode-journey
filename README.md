@@ -195,6 +195,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/2487_Remove_Nodes_From_Linked_List_(Medium).cpp)
     - Topics: Linked-List, Stack, Recursion, Monotonic-Stack
 
+  - Day 129:
+    - Problem: [2816 Double a Number Represented as a Linked List (Medium)](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/)
+    - Solution: [cpp solution](Year/2024/May/2816_Double_A_Number_As_A_Linked_List_(Medium).cpp)
+    - Topics: Linked-List, Math, Stack
+
   </p>
   </details>
   </p>
