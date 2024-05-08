@@ -1,0 +1,1 @@
+- [506 Relative Ranks (Easy)](../Year/2024/May/506_Relative_Ranks_(Easy).cpp)

@@ -1,3 +1,4 @@
 - [950. Reveal Cards In Increasing Order](../Year/2024/April/950_Reveal_Cards_In_Increasing_Order_(Medium).cpp)
 - [2441 Largest Positive Integer that exists with its negative (Easy)](../Year/2024/May/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative_(Easy).cpp)
 - [881 Boats to save people (Medium)](../Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
+- [506 Relative Ranks (Easy)](../Year/2024/May/506_Relative_Ranks_(Easy).cpp)

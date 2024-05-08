@@ -20,10 +20,12 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Graph](Topics/Graph.md)
   - [Greedy](Topics/Greedy.md)
   - [Hash Table](Topics/Hash-Table.md)
+  - [Heap](Topics/Heap.md)
   - [Linked List](Topics/Linked-List.md)
   - [Matrix](Topics/Matrix.md)
   - [Monotonic Stack](Topics/Monotonic%20Stack.md)
   - [Prefix Sum](Topics/Prefix-Sum.md)
+  - [Priority Queue](Topics/Priority-Queue.md)
   - [Queue](Topics/Queue.md)
   - [Simulation](Topics/Simulation.md)
   - [Sorting](Topics/Sorting.md)
@@ -199,6 +201,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Problem: [2816 Double a Number Represented as a Linked List (Medium)](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/)
     - Solution: [cpp solution](Year/2024/May/2816_Double_A_Number_As_A_Linked_List_(Medium).cpp)
     - Topics: Linked-List, Math, Stack
+
+  - Day 130:
+    - Problem: [506 Relative Ranks (Easy)](https://leetcode.com/problems/relative-ranks/description/)
+    - Solution: [cpp solution](Year/2024/May/506_Relative_Ranks_(Easy).cpp)
+    - Topics: Array, Sorting, Heap, Priority-Queue
 
   </p>
   </details>
