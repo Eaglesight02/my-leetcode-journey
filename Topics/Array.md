@@ -11,3 +11,4 @@
 - [2441 Largest Positive Integer that exists with its negative (Easy)](../Year/2024/May/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative_(Easy).cpp)
 - [881 Boats to save people (Medium)](../Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
 - [506 Relative Ranks (Easy)](../Year/2024/May/506_Relative_Ranks_(Easy).cpp)
+- [3075 Maximize Happiness of Selected Children (Medium)](../Year/2024/May/3075_Maximize_Happiness_Of_Selected_Children_(Medium).cpp)

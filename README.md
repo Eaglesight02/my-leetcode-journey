@@ -207,6 +207,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/506_Relative_Ranks_(Easy).cpp)
     - Topics: Array, Sorting, Heap, Priority-Queue
 
+  - Day 131:
+    - Problem: [3075 Maximize Happiness of Selected Children (Medium)](https://leetcode.com/problems/maximize-happiness-of-selected-children/)
+    - Solution: [cpp solution](Year/2024/May/3075_Maximize_Happiness_Of_Selected_Children_(Medium).cpp)
+    - Topics: Array, Greedy, Sorting
+
   </p>
   </details>
   </p>
