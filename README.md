@@ -212,6 +212,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/3075_Maximize_Happiness_Of_Selected_Children_(Medium).cpp)
     - Topics: Array, Greedy, Sorting
 
+  - Day 132:
+    - Problem: [786 Kth Smallest Prime Fraction (Medium)](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)
+    - Solution: [cpp solution](Year/2024/May/786_Kth_Smallest_Prime_Fraction_(Medium).cpp)
+    - Topics: Array, Two-Pointers, Binary-Search, Sorting, Heap, Priority-Queue
+
   </p>
   </details>
   </p>
