@@ -217,6 +217,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/786_Kth_Smallest_Prime_Fraction_(Medium).cpp)
     - Topics: Array, Two-Pointers, Binary-Search, Sorting, Heap, Priority-Queue
 
+  - Day 133:
+    - Problem: [857 Minimum Cost to hire K workers (Hard)](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
+    - Solution: [cpp solution](Year/2024/May/857_Minimum_Cost_to_hire_K_Workers_(Hard).cpp)
+    - Topics: Array, Greedy, Sorting, Heap, Priority-Queue
+
   </p>
   </details>
   </p>
