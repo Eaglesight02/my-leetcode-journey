@@ -12,3 +12,6 @@
 - [881 Boats to save people (Medium)](../Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
 - [506 Relative Ranks (Easy)](../Year/2024/May/506_Relative_Ranks_(Easy).cpp)
 - [3075 Maximize Happiness of Selected Children (Medium)](../Year/2024/May/3075_Maximize_Happiness_Of_Selected_Children_(Medium).cpp)
+- [861 Score After Flipping the Matrix (Medium)](../Year/2024/May/861_Score_After_Flipping_The_Matrix_(Medium).cpp)
+- [1219 Path with Maximum Gold (Medium)](../Year/2024/May/1219_Path_with_Maximum_Gold_(Medium).cpp)
+- [2812 Find the safest path in a grid (Medium)](../Year/2024/May/2812_Find_the_safest_path_in_a_grid_(Medium).cpp)

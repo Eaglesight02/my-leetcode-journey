@@ -4,3 +4,4 @@
 - [988 Smallest String From Leaf (Medium)](../Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
 - [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)
 - [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)
+- [2331 Evaluate Boolean Binary Tree (Easy)](../Year/2024/May/2331_Evaluate_Boolean_Binary_Tree_(Easy).cpp)

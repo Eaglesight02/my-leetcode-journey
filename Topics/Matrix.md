@@ -2,3 +2,6 @@
 - [200 Count Islands (Medium)](../Year/2024/April/200_Count_Islands_(Medium).cpp)
 - [1992 Find all groups of FarmLand (Medium)](../Year/2024/April/1992_Find_All_Groups_Of_FarmLand_(Medium).cpp)
 - [1289 Minimum Falling Path Sum II (Hard)](../Year/2024/April/1289_Minimum_Falling_Path_Sum_II_(Hard).cpp)
+- [861 Score After Flipping the Matrix (Medium)](../Year/2024/May/861_Score_After_Flipping_The_Matrix_(Medium).cpp)
+- [1219 Path with Maximum Gold (Medium)](../Year/2024/May/1219_Path_with_Maximum_Gold_(Medium).cpp)
+- [2812 Find the safest path in a grid (Medium)](../Year/2024/May/2812_Find_the_safest_path_in_a_grid_(Medium).cpp)

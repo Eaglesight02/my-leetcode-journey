@@ -13,7 +13,9 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   <p>
 
   - [Array](Topics/Array.md)
-  - [Binary Tree](Topics/Binary%20Tree.md)
+  - [Back Tracking](Topics/BackTracking.md)
+  - [Binary Tree](Topics/Binary-Tree.md)
+  - [Binary Search](Topics/Binary-Search.md)
   - [Bit Manipulation](Topics/Bit-Manipulation.md)
   - [Breadth First Search](Topics/Breadth-First-Search.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
@@ -78,22 +80,22 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
 - Day 106:
   - Problem: [404. Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves/description/)
   - Solution: [cpp solution](Year/2024/April/404_Sum_Of_Left_Leaves_(Easy).cpp)
-  - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary Tree
+  - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary-Tree
 
 - Day 107:
   - Problem: [129. Sum Root to Leaf Nodes (Medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
   - Solution: [cpp solution](Year/2024/April/129_Sum_Root_to_Leaf_Node_(Medium).cpp)
-  - Topics: Tree, Depth-First-Search, Binary Tree
+  - Topics: Tree, Depth-First-Search, Binary-Tree
 
 - Day 108:
   - Problem: [623. Add one Row to the Tree (Medium)](https://leetcode.com/problems/add-one-row-to-tree/description/)
   - Solution: [cpp solution](Year/2024/April/623_Add_One_Row_To_Tree_(Medium).cpp)
-  - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary Tree
+  - Topics: Tree, Depth-First-Search, Breadth-First-Search, Binary-Tree
 
 - Day 109:
   - Problem: [988 Smallest String From Leaf (Medium)](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
   - Solution: [cpp solution](Year/2024/April/988_Smallest_String_From_Leaf_(Medium).cpp)
-  - Topics: String, Tree, Depth-First-Search, Binary Tree
+  - Topics: String, Tree, Depth-First-Search, Binary-Tree
 
 - Day 110:
   - Problem: [456 Island Perimeter (Easy)](https://leetcode.com/problems/island-perimeter/description/)
@@ -227,7 +229,25 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/2373_Largest_Local_Values_in_a_Matrix_(Easy).cpp)
     - Topics: Array, Matrix
 
-    <!-- Copied again -->
+  - Day 135(copied):
+    - Problem: [861 Score After Flipping the Matrix (Medium)](https://leetcode.com/problems/score-after-flipping-matrix/description/)
+    - Solution: [cpp solution](Year/2024/May/861_Score_After_Flipping_The_Matrix_(Medium).cpp)
+    - Topics: Array, Greedy, Matrix, Bit-Manipulation
+
+  - Day 136(copied):
+    - Problem: [1219 Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold/description/)
+    - Solution: [cpp solution](Year/2024/May/1219_Path_with_Maximum_Gold_(Medium).cpp)
+    - Topics: Array, Matrix, BackTracking
+
+  - Day 137(copied):
+    - Problem: [2812 Find the safest path in a grid (Medium)](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/)
+    - Solution: [cpp solution](Year/2024/May/2812_Find_the_safest_path_in_a_grid_(Medium).cpp)
+    - Topics: Array, Matrix, Binary-Search, Union-Find, Breadth-First-Search
+
+  - Day 138:
+    - Problem: [2331 Evaluate Boolean Binary Tree (Easy)](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)
+    - Solution: [cpp solution](Year/2024/May/2331_Evaluate_Boolean_Binary_Tree_(Easy).cpp)
+    - Topics: Tree, Binary-Tree, Depth-First-Search
 
   </p>
   </details>

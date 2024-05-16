@@ -6,3 +6,4 @@
 - [1971 Find if path exists in Graph (Easy)](../Year/2024/April/1971_Find_If_Path_Exists_In_Graph_(Easy).cpp)
 - [310 Minimum Height Trees (Medium)](../Year/2024/April/310_Minimum_Height_Trees_(Medium).cpp)
 - [514 Freedom Trail (Hard)](../Year/2024/April/514_Freedom_Trail_(Hard).cpp)
+- [2812 Find the safest path in a grid (Medium)](../Year/2024/May/2812_Find_the_safest_path_in_a_grid_(Medium).cpp)

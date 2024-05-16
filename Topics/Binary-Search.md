@@ -1,0 +1,1 @@
+- [2812 Find the safest path in a grid (Medium)](../Year/2024/May/2812_Find_the_safest_path_in_a_grid_(Medium).cpp)
