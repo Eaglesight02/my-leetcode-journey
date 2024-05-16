@@ -1,1 +1,3 @@
+- [402. Remove K Digits (Medium)](../Year/2024/April/402_Remove_K_Digits_(Medium).cpp)
+- [85. Maximal Rectangle (Hard)](../Year/2024/April/85_Maximal_Rectangle_(Hard).cpp)
 - [2487 Remove Nodes From Linked List [Medium](../Year/2024/May/2487_Remove_Nodes_From_Linked_List_(Medium).cpp)
