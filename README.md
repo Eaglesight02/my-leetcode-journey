@@ -249,6 +249,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/2331_Evaluate_Boolean_Binary_Tree_(Easy).cpp)
     - Topics: Tree, Binary-Tree, Depth-First-Search
 
+  - Day 139:
+    - Problem: [1325 Delete Leaves with a Given Value (Medium)](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
+    - Solution: [cpp solution](Year/2024/May/1325_Delete_Leaves_with_a_Given_Value_(Medium).cpp)
+    - Topics: Tree, Binary-Tree, Depth-First-Search
+
   </p>
   </details>
   </p>
