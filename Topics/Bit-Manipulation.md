@@ -1,3 +1,6 @@
 - [2997 Minimum Number of Operations to Make Array XOR Equal to K (Medium)](../Year/2024/April/2997_Minimum_Number_Of_Operations_To_Make_Array_XOR_Equal_to_K_(Medium).cpp)
 - [1915 Number of Wonderful Substrings (Medium)](../Year/2024/April/1915_Number_Of_Wonderful_Substrings_(Medium).cpp)
 - [861 Score After Flipping the Matrix (Medium)](../Year/2024/May/861_Score_After_Flipping_The_Matrix_(Medium).cpp)
+- [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
+- [1863 Sum of all Subset XOR Totals (Easy)](../Year/2024/May/1863_Sum_of_all_subset_XOR_totals_(Easy).cpp)
+- [78 Subsets (Medium)](../Year/2024/May/78_Subsets_(Medium).cpp)

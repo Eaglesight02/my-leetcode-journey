@@ -1,1 +1,0 @@
-- [1219 Path with Maximum Gold (Medium)](../Year/2024/May/1219_Path_with_Maximum_Gold_(Medium).cpp)

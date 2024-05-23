@@ -3,3 +3,6 @@
 - [881 Boats to save people (Medium)](../Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
 - [506 Relative Ranks (Easy)](../Year/2024/May/506_Relative_Ranks_(Easy).cpp)
 - [3075 Maximize Happiness of Selected Children (Medium)](../Year/2024/May/3075_Maximize_Happiness_Of_Selected_Children_(Medium).cpp)
+- [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
+- [131 Palindrome Partitioning (Medium)](../Year/2024/May/131_Palindrome_Partitioning_(Medium).cpp)
+- [2597 The Number of Beautiful Subsets (Medium)](../Year/2024/May/2597_Number_of_Beautiful_Subsets_(Medium).cpp)

@@ -1,0 +1,1 @@
+- [1863 Sum of all Subset XOR Totals (Easy)](../Year/2024/May/1863_Sum_of_all_subset_XOR_totals_(Easy).cpp)

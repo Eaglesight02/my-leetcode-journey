@@ -6,3 +6,5 @@
 - [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)
 - [2331 Evaluate Boolean Binary Tree (Easy)](../Year/2024/May/2331_Evaluate_Boolean_Binary_Tree_(Easy).cpp)
 - [1325 Delete Leaves with a Given Value (Medium)](../Year/2024/May/1325_Delete_Leaves_with_a_Given_Value_(Medium).cpp)
+- [979 Distribute Coins in a Binary Tree (Medium)](../Year/2024/May/979_Distribute_Coins_in_a_binary_tree_(Medium).cpp)
+- [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)

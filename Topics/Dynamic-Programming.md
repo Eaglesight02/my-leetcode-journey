@@ -4,3 +4,6 @@
 - [1289 Minimum Falling Path Sum II (Hard)](../Year/2024/April/1289_Minimum_Falling_Path_Sum_II_(Hard).cpp)
 - [514 Freedom Trail (Hard)](../Year/2024/April/514_Freedom_Trail_(Hard).cpp)
 - [834 Sum of Distances in Tree (Hard)](../Year/2024/April/834_Sum_of_Distances_in_Tree_(Hard).cpp)
+- [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
+- [131 Palindrome Partitioning (Medium)](../Year/2024/May/131_Palindrome_Partitioning_(Medium).cpp)
+- [2597 The Number of Beautiful Subsets (Medium)](../Year/2024/May/2597_Number_of_Beautiful_Subsets_(Medium).cpp)

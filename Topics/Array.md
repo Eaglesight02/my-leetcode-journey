@@ -15,3 +15,7 @@
 - [861 Score After Flipping the Matrix (Medium)](../Year/2024/May/861_Score_After_Flipping_The_Matrix_(Medium).cpp)
 - [1219 Path with Maximum Gold (Medium)](../Year/2024/May/1219_Path_with_Maximum_Gold_(Medium).cpp)
 - [2812 Find the safest path in a grid (Medium)](../Year/2024/May/2812_Find_the_safest_path_in_a_grid_(Medium).cpp)
+- [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
+- [1863 Sum of all Subset XOR Totals (Easy)](../Year/2024/May/1863_Sum_of_all_subset_XOR_totals_(Easy).cpp)
+- [78 Subsets (Medium)](../Year/2024/May/78_Subsets_(Medium).cpp)
+- [2597 The Number of Beautiful Subsets (Medium)](../Year/2024/May/2597_Number_of_Beautiful_Subsets_(Medium).cpp)

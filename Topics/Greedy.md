@@ -2,3 +2,4 @@
 - [881 Boats to save people (Medium)](../Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
 - [3075 Maximize Happiness of Selected Children (Medium)](../Year/2024/May/3075_Maximize_Happiness_Of_Selected_Children_(Medium).cpp)
 - [861 Score After Flipping the Matrix (Medium)](../Year/2024/May/861_Score_After_Flipping_The_Matrix_(Medium).cpp)
+- [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)

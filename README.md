@@ -13,17 +13,20 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   <p>
 
   - [Array](Topics/Array.md)
-  - [Back Tracking](Topics/BackTracking.md)
+  - [Back Tracking](Topics/Back-Tracking.md)
   - [Binary Tree](Topics/Binary-Tree.md)
   - [Binary Search](Topics/Binary-Search.md)
   - [Bit Manipulation](Topics/Bit-Manipulation.md)
   - [Breadth First Search](Topics/Breadth-First-Search.md)
+  - [Combinatorics](Topics/Combinatorics.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
+  - [Enumeration](Topics/Enumeration.md)
   - [Graph](Topics/Graph.md)
   - [Greedy](Topics/Greedy.md)
   - [Hash Table](Topics/Hash-Table.md)
   - [Heap](Topics/Heap.md)
   - [Linked List](Topics/Linked-List.md)
+  - [Math](Topics/Math.md)
   - [Matrix](Topics/Matrix.md)
   - [Monotonic Stack](Topics/Monotonic%20Stack.md)
   - [Prefix Sum](Topics/Prefix-Sum.md)
@@ -237,7 +240,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - Day 136(copied):
     - Problem: [1219 Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold/description/)
     - Solution: [cpp solution](Year/2024/May/1219_Path_with_Maximum_Gold_(Medium).cpp)
-    - Topics: Array, Matrix, BackTracking
+    - Topics: Array, Matrix, Back-Tracking
 
   - Day 137(copied):
     - Problem: [2812 Find the safest path in a grid (Medium)](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/)
@@ -253,6 +256,36 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Problem: [1325 Delete Leaves with a Given Value (Medium)](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
     - Solution: [cpp solution](Year/2024/May/1325_Delete_Leaves_with_a_Given_Value_(Medium).cpp)
     - Topics: Tree, Binary-Tree, Depth-First-Search
+
+  - Day 140:
+    - Problem: [979 Distribute Coins in a Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
+    - Solution: [cpp solution](Year/2024/May/979_Distribute_Coins_in_a_binary_tree_(Medium).cpp)
+    - Topics: Tree, Binary-Tree, Depth-First-Search
+
+  - Day 141:
+    - Problem: [3068 Find the maximum sum of Node Values (Hard)](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)
+    - Solution: [cpp solution](Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
+    - Topics: Array, Greedy, Tree, Sorting, Dynamic-Programming, Bit-Manipulation
+
+  - Day 142:
+    - Problem: [1863 Sum of all Subset XOR Totals (Easy)](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
+    - Solution: [cpp solution](Year/2024/May/1863_Sum_of_all_subset_XOR_totals_(Easy).cpp)
+    - Topics: Array, Math, Back-Tracking, Bit-Manipulation, Combinatorics, Enumeration
+
+  - Day 143:
+    - Problem: [78 Subsets (Medium)](https://leetcode.com/problems/subsets/description/)
+    - Solution: [cpp solution](Year/2024/May/78_Subsets_(Medium).cpp)
+    - Topics: Array, Back-Tracking, Bit-Manipulation
+
+  - Day 144:
+    - Problem: [131 Palindrome Partitioning (Medium)](https://leetcode.com/problems/palindrome-partitioning/description/)
+    - Solution: [cpp solution](Year/2024/May/131_Palindrome_Partitioning_(Medium).cpp)
+    - Topics: String, Dynamic-Programming, Sorting
+
+  - Day 145:
+    - Problem: [2597 The Number of Beautiful Subsets (Medium)](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)
+    - Solution: [cpp solution](Year/2024/May/2597_Number_of_Beautiful_Subsets_(Medium).cpp)
+    - Topics: Array, Back-Tracking, Sorting, Dynamic-Programming
 
   </p>
   </details>

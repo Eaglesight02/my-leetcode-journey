@@ -10,3 +10,4 @@
 - [514 Freedom Trail (Hard)](../Year/2024/April/514_Freedom_Trail_(Hard).cpp)
 - [2331 Evaluate Boolean Binary Tree (Easy)](../Year/2024/May/2331_Evaluate_Boolean_Binary_Tree_(Easy).cpp)
 - [1325 Delete Leaves with a Given Value (Medium)](../Year/2024/May/1325_Delete_Leaves_with_a_Given_Value_(Medium).cpp)
+- [979 Distribute Coins in a Binary Tree (Medium)](../Year/2024/May/979_Distribute_Coins_in_a_binary_tree_(Medium).cpp)
