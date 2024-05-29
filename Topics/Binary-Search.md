@@ -1,1 +1,3 @@
 - [2812 Find the safest path in a grid (Medium)](../Year/2024/May/2812_Find_the_safest_path_in_a_grid_(Medium).cpp)
+- [1608 Special Elements with X Elements greater than or equal X (Easy)](../Year/2024/May/1608_Special_Elements_with_X_Elements_greater_than_or_equal_X_(Easy).cpp)
+- [1208 Get Equal Substrings within Budget (Medium)](../Year/2024/May/1208_Get_Equal_Substrings_within_Budget_(Medium).cpp)

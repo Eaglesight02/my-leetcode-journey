@@ -6,3 +6,7 @@
 - [2000 Reverse Prefix Of Word (Easy)](../Year/2024/May/2000_Reverse_Prefix_Of_Word_(Easy).cpp)
 - [165 Compare Version Numbers (Medium)](../Year/2024/May/165_Compare_Version_Numbers_(Medium).cpp)
 - [131 Palindrome Partitioning (Medium)](../Year/2024/May/131_Palindrome_Partitioning_(Medium).cpp)
+- [1255 Maximum Score Words formed by Letters (Hard)](../Year/2024/May/1255_Maximum_Score_Words_Formed_By_Letters_(Hard).cpp)
+- [140 Word Break II (Hard)](../Year/2024/May/140_Word_Break_II_(Hard).cpp)
+- [1208 Get Equal Substrings within Budget (Medium)](../Year/2024/May/1208_Get_Equal_Substrings_within_Budget_(Medium).cpp)
+- [1404 Number of Steps to reduce a Number in Binary Representation to One (Medium)](../Year/2024/May/1404_Number_of_Steps_to_reduce_a_number_in_binary_representation_to_one_(Medium).cpp)

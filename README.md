@@ -17,6 +17,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Binary Tree](Topics/Binary-Tree.md)
   - [Binary Search](Topics/Binary-Search.md)
   - [Bit Manipulation](Topics/Bit-Manipulation.md)
+  - [Bitmask](Topics/Bitmask.md)
   - [Breadth First Search](Topics/Breadth-First-Search.md)
   - [Combinatorics](Topics/Combinatorics.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
@@ -33,10 +34,12 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Priority Queue](Topics/Priority-Queue.md)
   - [Queue](Topics/Queue.md)
   - [Simulation](Topics/Simulation.md)
+  - [Sliding Window](Topics/Sliding-Window.md)
   - [Sorting](Topics/Sorting.md)
   - [Stack](Topics/Stack.md)
   - [String](Topics/String.md)
   - [Tree](Topics/Two-Pointers.md)
+  - [Trie](Topics/Trie.md)
   - [Two Pointers](Topics/Two-Pointers.md)
   - [Topological-Sort](Topics/Topological-Sort.md)
   - [Union-Find](Topics/Union-Find.md)
@@ -286,6 +289,36 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Problem: [2597 The Number of Beautiful Subsets (Medium)](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/)
     - Solution: [cpp solution](Year/2024/May/2597_Number_of_Beautiful_Subsets_(Medium).cpp)
     - Topics: Array, Back-Tracking, Sorting, Dynamic-Programming
+
+  - Day 146:
+    - Problem: [1255 Maximum Score Words formed by Letters (Hard)](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/)
+    - Solution: [cpp solution](Year/2024/May/1255_Maximum_Score_Words_Formed_By_Letters_(Hard).cpp)
+    - Topics: Array, String, Bit-Manipulation, Bitmask, Back-Tracking, Dynamic-Programming
+
+  - Day 147:
+    - Problem: [140 Word Break II (Hard)](https://leetcode.com/problems/word-break-ii/description/)
+    - Solution: [cpp solution](Year/2024/May/140_Word_Break_II_(Hard).cpp)
+    - Topics: Array, String, Trie, Memoization, Hash-Table, Back-Tracking, Dynamic-Programming
+
+  - Day 148:
+    - Problem: [552 Student Attendance Record II (Hard)](https://leetcode.com/problems/student-attendance-record-ii/)
+    - Solution: [cpp solution](Year/2024/May/552_Student_Attendance_II_(Hard).cpp)
+    - Topics: Dynamic-Programming
+  
+  - Day 149:
+    - Problem: [1608 Special Elements with X Elements greater than or equal X (Easy)](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)
+    - Solution: [cpp solution](Year/2024/May/1608_Special_Elements_with_X_Elements_greater_than_or_equal_X_(Easy).cpp)
+    - Topics: Array, Sorting, Binary-Search
+
+  - Day 150:
+    - Problem: [1208 Get Equal Substrings within Budget (Medium)](https://leetcode.com/problems/get-equal-substrings-within-budget/description/)
+    - Solution: [cpp solution](Year/2024/May/1208_Get_Equal_Substrings_within_Budget_(Medium).cpp)
+    - Topics: String, Prefix-Sum, Sliding-Window, Binary-Search
+
+  - Day 151:
+    - Problem: [1404 Number of Steps to reduce a Number in Binary Representation to One (Medium)](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/)
+    - Solution: [cpp solution](Year/2024/May/1404_Number_of_Steps_to_reduce_a_number_in_binary_representation_to_one_(Medium).cpp)
+    - Topics: String, Bit-Manipulation
 
   </p>
   </details>

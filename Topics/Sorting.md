@@ -6,3 +6,4 @@
 - [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
 - [131 Palindrome Partitioning (Medium)](../Year/2024/May/131_Palindrome_Partitioning_(Medium).cpp)
 - [2597 The Number of Beautiful Subsets (Medium)](../Year/2024/May/2597_Number_of_Beautiful_Subsets_(Medium).cpp)
+- [1608 Special Elements with X Elements greater than or equal X (Easy)](../Year/2024/May/1608_Special_Elements_with_X_Elements_greater_than_or_equal_X_(Easy).cpp)

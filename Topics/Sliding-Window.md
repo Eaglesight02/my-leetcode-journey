@@ -1,2 +1,1 @@
-- [1915 Number of Wonderful Substrings (Medium)](../Year/2024/April/1915_Number_Of_Wonderful_Substrings_(Medium).cpp)
 - [1208 Get Equal Substrings within Budget (Medium)](../Year/2024/May/1208_Get_Equal_Substrings_within_Budget_(Medium).cpp)

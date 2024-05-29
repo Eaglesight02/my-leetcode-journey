@@ -4,3 +4,5 @@
 - [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
 - [1863 Sum of all Subset XOR Totals (Easy)](../Year/2024/May/1863_Sum_of_all_subset_XOR_totals_(Easy).cpp)
 - [78 Subsets (Medium)](../Year/2024/May/78_Subsets_(Medium).cpp)
+- [1255 Maximum Score Words formed by Letters (Hard)](../Year/2024/May/1255_Maximum_Score_Words_Formed_By_Letters_(Hard).cpp)
+- [1404 Number of Steps to reduce a Number in Binary Representation to One (Medium)](../Year/2024/May/1404_Number_of_Steps_to_reduce_a_number_in_binary_representation_to_one_(Medium).cpp)
