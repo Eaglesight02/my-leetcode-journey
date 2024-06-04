@@ -330,6 +330,13 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/260_Single_number_III_(Medium).cpp)
     - Topics: Array, Bit-Manipulation
 
+  </p>
+  </details>
+  
+  <details>
+  <summary>June</summary>
+  <p>
+
   - Day 154:
     - Problem: [3110 Score of a String (Easy)](https://leetcode.com/problems/score-of-a-string/description/)
     - Solution: [cpp solution](Year/2024/June/3110_Score_of_a_String_(Easy).cpp)
