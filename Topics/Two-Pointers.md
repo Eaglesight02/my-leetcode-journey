@@ -2,3 +2,5 @@
 - [2441 Largest Positive Integer that exists with its negative (Easy)](../Year/2024/May/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative_(Easy).cpp)
 - [165 Compare Version Numbers (Medium)](../Year/2024/May/165_Compare_Version_Numbers_(Medium).cpp)
 - [881 Boats to save people (Medium)](../Year/2024/May/881_Boats_to_save_people_(Medium).cpp)
+- [344 Reverse String (Easy)](../Year/2024/June/344_Reverse_String_(Easy).cpp)
+- [2486 Append Character to String to make Subsequence (Medium)](../Year/2024/June/2486_Append_Characters_to_make_String_Subsequence_(Medium).cpp)

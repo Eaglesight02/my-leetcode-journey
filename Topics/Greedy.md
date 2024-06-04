@@ -3,3 +3,5 @@
 - [3075 Maximize Happiness of Selected Children (Medium)](../Year/2024/May/3075_Maximize_Happiness_Of_Selected_Children_(Medium).cpp)
 - [861 Score After Flipping the Matrix (Medium)](../Year/2024/May/861_Score_After_Flipping_The_Matrix_(Medium).cpp)
 - [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
+- [2486 Append Character to String to make Subsequence (Medium)](../Year/2024/June/2486_Append_Characters_to_make_String_Subsequence_(Medium).cpp)
+- [409 Longest Palindrome (Easy)](../Year/2024/June/409_Longest_Palindrome_(Easy).cpp)

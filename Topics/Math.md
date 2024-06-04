@@ -1,3 +1,4 @@
 - [1137 Nth Tribonacci Number (Easy)](../Year/2024/April/1137_Nth_Tribonacci_Number_(Easy).cpp)
 - [2816 Double a Number Represented as a Linked List (Medium)](../Year/2024/May/2816_Double_A_Number_As_A_Linked_List_(Medium).cpp)
 - [1863 Sum of all Subset XOR Totals (Easy)](../Year/2024/May/1863_Sum_of_all_subset_XOR_totals_(Easy).cpp)
+- [1442 Count Triplets that can form Two Arrays of Equal XOR (Medium)](../Year/2024/May/1442_Count_Triplets_that_can_form_Two_Arrays_of_Equal_XOR_(Medium).cpp)

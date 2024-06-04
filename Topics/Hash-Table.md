@@ -2,3 +2,5 @@
 - [1915 Number of Wonderful Substrings (Medium)](../Year/2024/April/1915_Number_Of_Wonderful_Substrings_(Medium).cpp)
 - [2441 Largest Positive Integer that exists with its negative (Easy)](../Year/2024/May/2441_Largest_Positive_Integer_That_Exists_With_Its_Negative_(Easy).cpp)
 - [140 Word Break II (Hard)](../Year/2024/May/140_Word_Break_II_(Hard).cpp)
+- [1442 Count Triplets that can form Two Arrays of Equal XOR (Medium)](../Year/2024/May/1442_Count_Triplets_that_can_form_Two_Arrays_of_Equal_XOR_(Medium).cpp)
+- [409 Longest Palindrome (Easy)](../Year/2024/June/409_Longest_Palindrome_(Easy).cpp)

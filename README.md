@@ -320,6 +320,36 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/May/1404_Number_of_Steps_to_reduce_a_number_in_binary_representation_to_one_(Medium).cpp)
     - Topics: String, Bit-Manipulation
 
+  - Day 152:
+    - Problem: [1442 Count Triplets that can form Two Arrays of Equal XOR (Medium)](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)
+    - Solution: [cpp solution](Year/2024/May/1442_Count_Triplets_that_can_form_Two_Arrays_of_Equal_XOR_(Medium).cpp)
+    - Topics: Array, Math, Prefix-Sum, Hash-Table, Bit-Manipulation
+
+  - Day 153:
+    - Problem: [260 Single Number III (Medium)](https://leetcode.com/problems/single-number-iii/description/)
+    - Solution: [cpp solution](Year/2024/May/260_Single_number_III_(Medium).cpp)
+    - Topics: Array, Bit-Manipulation
+
+  - Day 154:
+    - Problem: [3110 Score of a String (Easy)](https://leetcode.com/problems/score-of-a-string/description/)
+    - Solution: [cpp solution](Year/2024/June/3110_Score_of_a_String_(Easy).cpp)
+    - Topics: String
+
+  - Day 155:
+    - Problem: [344 Reverse String (Easy)](https://leetcode.com/problems/reverse-string/description/)
+    - Solution: [cpp solution](Year/2024/June/344_Reverse_String_(Easy).cpp)
+    - Topics: String, Two-Pointers
+
+  - Day 156:
+    - Problem: [2486 Append Character to String to make Subsequence (Medium)](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)
+    - Solution: [cpp solution](Year/2024/June/2486_Append_Characters_to_make_String_Subsequence_(Medium).cpp)
+    - Topics: String, Greedy, Two-Pointers
+
+  - Day 157:
+    - Problem: [409 Longest Palindrome (Easy)](https://leetcode.com/problems/longest-palindrome/description/)
+    - Solution: [cpp solution](Year/2024/June/409_Longest_Palindrome_(Easy).cpp)
+    - Topics: String, Greedy, Hash-Table
+
   </p>
   </details>
   </p>

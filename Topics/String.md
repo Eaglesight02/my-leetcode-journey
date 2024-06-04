@@ -10,3 +10,7 @@
 - [140 Word Break II (Hard)](../Year/2024/May/140_Word_Break_II_(Hard).cpp)
 - [1208 Get Equal Substrings within Budget (Medium)](../Year/2024/May/1208_Get_Equal_Substrings_within_Budget_(Medium).cpp)
 - [1404 Number of Steps to reduce a Number in Binary Representation to One (Medium)](../Year/2024/May/1404_Number_of_Steps_to_reduce_a_number_in_binary_representation_to_one_(Medium).cpp)
+- [3110 Score of a String (Easy)](../Year/2024/June/3110_Score_of_a_String_(Easy).cpp)
+- [344 Reverse String (Easy)](../Year/2024/June/344_Reverse_String_(Easy).cpp)
+- [2486 Append Character to String to make Subsequence (Medium)](../Year/2024/June/2486_Append_Characters_to_make_String_Subsequence_(Medium).cpp)
+- [409 Longest Palindrome (Easy)](../Year/2024/June/409_Longest_Palindrome_(Easy).cpp)

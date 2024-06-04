@@ -22,3 +22,5 @@
 - [1255 Maximum Score Words formed by Letters (Hard)](../Year/2024/May/1255_Maximum_Score_Words_Formed_By_Letters_(Hard).cpp)
 - [140 Word Break II (Hard)](../Year/2024/May/140_Word_Break_II_(Hard).cpp)
 - [1608 Special Elements with X Elements greater than or equal X (Easy)](../Year/2024/May/1608_Special_Elements_with_X_Elements_greater_than_or_equal_X_(Easy).cpp)
+- [1442 Count Triplets that can form Two Arrays of Equal XOR (Medium)](../Year/2024/May/1442_Count_Triplets_that_can_form_Two_Arrays_of_Equal_XOR_(Medium).cpp)
+- [260 Single Number III (Medium)](../Year/2024/May/260_Single_number_III_(Medium).cpp)
