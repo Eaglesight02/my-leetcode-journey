@@ -357,6 +357,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/June/409_Longest_Palindrome_(Easy).cpp)
     - Topics: String, Greedy, Hash-Table
 
+  - Day 158:
+    - Problem: [1002 Find Common Characters (Easy)](https://leetcode.com/problems/find-common-characters/)
+    - Solution: [cpp solution](Year/2024/June/1002_Find_Common_Characters_(Easy).cpp)
+    - Topics: String, Array, Hash-Table
+
   </p>
   </details>
   </p>
