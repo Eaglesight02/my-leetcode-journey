@@ -5,3 +5,4 @@
 - [3068 Find the maximum sum of Node Values (Hard)](../Year/2024/May/3068_Find_the_maximum_sum_of_Node_Values_(Hard).cpp)
 - [2486 Append Character to String to make Subsequence (Medium)](../Year/2024/June/2486_Append_Characters_to_make_String_Subsequence_(Medium).cpp)
 - [409 Longest Palindrome (Easy)](../Year/2024/June/409_Longest_Palindrome_(Easy).cpp)
+- [846 Hand of Straights (Medium)](../Year/2024/June/846_Hand_of_Straights_(Medium).cpp)

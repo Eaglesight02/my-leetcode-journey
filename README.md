@@ -362,6 +362,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/June/1002_Find_Common_Characters_(Easy).cpp)
     - Topics: String, Array, Hash-Table
 
+  - Day 159:
+    - Problem: [846 Hand of Straights (Medium)](https://leetcode.com/problems/hand-of-straights/description/)
+    - Solution: [cpp solution](Year/2024/June/846_Hand_of_Straights_(Medium).cpp)
+    - Topics: Array, Greedy, Sorting, Hash-Table
+
   </p>
   </details>
   </p>
