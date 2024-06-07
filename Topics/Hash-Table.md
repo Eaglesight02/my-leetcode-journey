@@ -6,3 +6,4 @@
 - [409 Longest Palindrome (Easy)](../Year/2024/June/409_Longest_Palindrome_(Easy).cpp)
 - [1002 Find Common Characters (Easy)](../Year/2024/June/1002_Find_Common_Characters_(Easy).cpp)
 - [846 Hand of Straights (Medium)](../Year/2024/June/846_Hand_of_Straights_(Medium).cpp)
+- [648 Replace Words (Medium)](../Year/2024/June/648_Replace_Words_(Medium).cpp)

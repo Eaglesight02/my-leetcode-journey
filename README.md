@@ -367,6 +367,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/June/846_Hand_of_Straights_(Medium).cpp)
     - Topics: Array, Greedy, Sorting, Hash-Table
 
+  - Day 160:  
+    - Problem: [648 Replace Words (Medium)](https://leetcode.com/problems/replace-words/description/)
+    - Solution: [cpp solution](Year/2024/June/648_Replace_Words_(Medium).cpp)
+    - Topics: Array, String, Trie, Hash-Table
+
   </p>
   </details>
   </p>
