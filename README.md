@@ -371,6 +371,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Problem: [648 Replace Words (Medium)](https://leetcode.com/problems/replace-words/description/)
     - Solution: [cpp solution](Year/2024/June/648_Replace_Words_(Medium).cpp)
     - Topics: Array, String, Trie, Hash-Table
+  
+  - Day 161:
+    - Problem: [523 Continuos SubArray Sum (Medium)](https://leetcode.com/problems/continuous-subarray-sum/description/)
+    - Solution: [cpp solution](Year/2024/June/523_Continuos_SubArray_Sum_(Medium).cpp)
+    - Topics: Array, Math, Prefix-Sum, Hash-Table
 
   </p>
   </details>
