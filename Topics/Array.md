@@ -28,3 +28,4 @@
 - [846 Hand of Straights (Medium)](../Year/2024/June/846_Hand_of_Straights_(Medium).cpp)
 - [648 Replace Words (Medium)](../Year/2024/June/648_Replace_Words_(Medium).cpp)
 - [523 Continuos SubArray Sum (Medium)](../Year/2024/June/523_Continuos_SubArray_Sum_(Medium).cpp)
+- [974 Subarray Sums Divisble by K (Medium)](../Year/2024/June/974_Subarray_Sums_Divisible_by_k_(Medium).cpp)

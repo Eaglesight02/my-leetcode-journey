@@ -377,6 +377,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/June/523_Continuos_SubArray_Sum_(Medium).cpp)
     - Topics: Array, Math, Prefix-Sum, Hash-Table
 
+  - Day 162:
+    - Problem: [974 Subarray Sums Divisble by K (Medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+    - Solution: [cpp solution](Year/2024/June/974_Subarray_Sums_Divisible_by_k_(Medium).cpp)
+    - Topics: Array, Prefix-Sum, Hash-Table
+
   </p>
   </details>
   </p>
