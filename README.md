@@ -20,6 +20,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Bitmask](Topics/Bitmask.md)
   - [Breadth First Search](Topics/Breadth-First-Search.md)
   - [Combinatorics](Topics/Combinatorics.md)
+  - [Counting Sort](Topics/Counting-Sort.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
   - [Enumeration](Topics/Enumeration.md)
   - [Graph](Topics/Graph.md)
@@ -381,6 +382,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Problem: [974 Subarray Sums Divisble by K (Medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
     - Solution: [cpp solution](Year/2024/June/974_Subarray_Sums_Divisible_by_k_(Medium).cpp)
     - Topics: Array, Prefix-Sum, Hash-Table
+
+  - Day 163:
+    - Problem: [1051 Height Checker (Easy)](https://leetcode.com/problems/height-checker/description/)
+    - Solution: [cpp solution](Year/2024/June/1051_Height_Checker_(Easy).cpp)
+    - Topics: Array, Sorting, Counting-Sort
 
   </p>
   </details>

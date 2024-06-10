@@ -29,3 +29,4 @@
 - [648 Replace Words (Medium)](../Year/2024/June/648_Replace_Words_(Medium).cpp)
 - [523 Continuos SubArray Sum (Medium)](../Year/2024/June/523_Continuos_SubArray_Sum_(Medium).cpp)
 - [974 Subarray Sums Divisble by K (Medium)](../Year/2024/June/974_Subarray_Sums_Divisible_by_k_(Medium).cpp)
+- [1051 Height Checker (Easy)](../Year/2024/June/1051_Height_Checker_(Easy).cpp)
