@@ -9,3 +9,4 @@
 - [1608 Special Elements with X Elements greater than or equal X (Easy)](../Year/2024/May/1608_Special_Elements_with_X_Elements_greater_than_or_equal_X_(Easy).cpp)
 - [846 Hand of Straights (Medium)](../Year/2024/June/846_Hand_of_Straights_(Medium).cpp)
 - [1051 Height Checker (Easy)](../Year/2024/June/1051_Height_Checker_(Easy).cpp)
+- [1122 Relative Sort Array (Easy)](../Year/2024/June/1122_Relative_Sort_Array_(Easy).cpp)

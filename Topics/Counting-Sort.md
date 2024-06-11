@@ -1,1 +1,2 @@
 - [1051 Height Checker (Easy)](../Year/2024/June/1051_Height_Checker_(Easy).cpp)
+- [1122 Relative Sort Array (Easy)](../Year/2024/June/1122_Relative_Sort_Array_(Easy).cpp)

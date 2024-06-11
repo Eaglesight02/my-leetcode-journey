@@ -388,6 +388,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/June/1051_Height_Checker_(Easy).cpp)
     - Topics: Array, Sorting, Counting-Sort
 
+  - Day 164:
+    - Problem: [1122 Relative Sort Array (Easy)](https://leetcode.com/problems/relative-sort-array/description/)
+    - Solution: [cpp solution](Year/2024/June/1122_Relative_Sort_Array_(Easy).cpp)
+    - Topics: Array, Hash-Table, Sorting, Counting-Sort
+
   </p>
   </details>
   </p>
