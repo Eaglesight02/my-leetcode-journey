@@ -393,6 +393,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/June/1122_Relative_Sort_Array_(Easy).cpp)
     - Topics: Array, Hash-Table, Sorting, Counting-Sort
 
+  - Day 165:
+    - Problem: [75 Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/description/)
+    - Solution: [cpp solution](Year/2024/June/75_Sort_Colors_(Medium).cpp)
+    - Topics: Array, Sorting, Two-Pointers
+
   </p>
   </details>
   </p>
