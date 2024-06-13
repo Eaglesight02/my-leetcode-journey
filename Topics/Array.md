@@ -31,3 +31,4 @@
 - [974 Subarray Sums Divisble by K (Medium)](../Year/2024/June/974_Subarray_Sums_Divisible_by_k_(Medium).cpp)
 - [1051 Height Checker (Easy)](../Year/2024/June/1051_Height_Checker_(Easy).cpp)
 - [1122 Relative Sort Array (Easy)](../Year/2024/June/1122_Relative_Sort_Array_(Easy).cpp)
+- [2037 Minimum number of moves to seat Everyone (Easy)](../Year/2024/June/2037_Minimum_number_of_moves_to_seat_Everyone_(Easy).cpp)

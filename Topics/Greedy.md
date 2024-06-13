@@ -6,3 +6,4 @@
 - [2486 Append Character to String to make Subsequence (Medium)](../Year/2024/June/2486_Append_Characters_to_make_String_Subsequence_(Medium).cpp)
 - [409 Longest Palindrome (Easy)](../Year/2024/June/409_Longest_Palindrome_(Easy).cpp)
 - [846 Hand of Straights (Medium)](../Year/2024/June/846_Hand_of_Straights_(Medium).cpp)
+- [2037 Minimum number of moves to seat Everyone (Easy)](../Year/2024/June/2037_Minimum_number_of_moves_to_seat_Everyone_(Easy).cpp)

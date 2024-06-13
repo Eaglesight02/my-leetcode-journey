@@ -398,6 +398,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Solution: [cpp solution](Year/2024/June/75_Sort_Colors_(Medium).cpp)
     - Topics: Array, Sorting, Two-Pointers
 
+  - Day 166:
+    - Problem: [2037 Minimum number of moves to seat Everyone (Easy)](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)
+    - Solution: [cpp solution](Year/2024/June/2037_Minimum_number_of_moves_to_seat_Everyone_(Easy).cpp)
+    - Topics: Array, Greedy, Sorting
+
   </p>
   </details>
   </p>
