@@ -7,3 +7,4 @@
 - [409 Longest Palindrome (Easy)](../Year/2024/June/409_Longest_Palindrome_(Easy).cpp)
 - [846 Hand of Straights (Medium)](../Year/2024/June/846_Hand_of_Straights_(Medium).cpp)
 - [2037 Minimum number of moves to seat Everyone (Easy)](../Year/2024/June/2037_Minimum_number_of_moves_to_seat_Everyone_(Easy).cpp)
+- [945 Minimum Increment to make array Unique (Medium)](../Year/2024/June/945_Minimum_Increment_To_Make_Array_Unique_(Medium).cpp)

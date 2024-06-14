@@ -20,6 +20,7 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
   - [Bitmask](Topics/Bitmask.md)
   - [Breadth First Search](Topics/Breadth-First-Search.md)
   - [Combinatorics](Topics/Combinatorics.md)
+  - [Counting](Topics/Counting.md)
   - [Counting Sort](Topics/Counting-Sort.md)
   - [Depth First Search](Topics/Depth-First-Search.md)
   - [Enumeration](Topics/Enumeration.md)
@@ -402,6 +403,11 @@ This repository is a collection of the 'Problem of the Day'(POTD) solutions that
     - Problem: [2037 Minimum number of moves to seat Everyone (Easy)](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)
     - Solution: [cpp solution](Year/2024/June/2037_Minimum_number_of_moves_to_seat_Everyone_(Easy).cpp)
     - Topics: Array, Greedy, Sorting
+
+  - Day 167:
+    - Problem: [945 Minimum Increment to make array Unique (Medium)](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)
+    - Solution: [cpp solution](Year/2024/June/945_Minimum_Increment_To_Make_Array_Unique_(Medium).cpp)
+    - Topics: Array, Greedy, Sorting, Counting
 
   </p>
   </details>

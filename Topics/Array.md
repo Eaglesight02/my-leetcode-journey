@@ -32,3 +32,4 @@
 - [1051 Height Checker (Easy)](../Year/2024/June/1051_Height_Checker_(Easy).cpp)
 - [1122 Relative Sort Array (Easy)](../Year/2024/June/1122_Relative_Sort_Array_(Easy).cpp)
 - [2037 Minimum number of moves to seat Everyone (Easy)](../Year/2024/June/2037_Minimum_number_of_moves_to_seat_Everyone_(Easy).cpp)
+- [945 Minimum Increment to make array Unique (Medium)](../Year/2024/June/945_Minimum_Increment_To_Make_Array_Unique_(Medium).cpp)
